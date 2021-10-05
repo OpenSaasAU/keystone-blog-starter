@@ -10,4 +10,4 @@ npm run dev
 yarn dev
 ```
 
-This project follows the [How to Embed Keystone + SQLite in a Next.js app](https://keystonejs.com/docs/walkthroughs/embedded-mode-with-sqlite-nextjs) with the adition on the new [Document Field](https://keystonejs.com/docs/guides/document-fields) customise to add embedded video.
+This project follows the [How to Embed Keystone + SQLite in a Next.js app](https://keystonejs.com/docs/walkthroughs/embedded-mode-with-sqlite-nextjs) with the addition of the new [Document Field](https://keystonejs.com/docs/guides/document-fields) customised to add embedded video.
