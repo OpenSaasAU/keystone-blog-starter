@@ -538,12 +538,12 @@
   resolved "https://registry.yarnpkg.com/@josephg/resolvable/-/resolvable-1.0.1.tgz#69bc4db754d79e1a2f17a650d3466e038d94a5eb"
   integrity sha512-CtzORUwWTTOTqfVtHaKRJ0I1kNQd1bpn3sUh8I3nJDVY+5/M/Oe1DnEWzPQvqq/xPIIkzzzIP7mfCoAjFRvDhg==
 
-"@keystone-next/document-renderer@^4.0.0":
+"@keystone-next/document-renderer@4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@keystone-next/document-renderer/-/document-renderer-4.0.0.tgz#f34b18643743c23256535f57949ec843ef9d5dc9"
   integrity sha512-0KrkpGE2XwhrL8iugW4tXL6/WjEmtBtIgm7NN7VUvSdIZN/AMuy57AeOdBMeiux1Z7RalNeF+JyaW5KoHukADQ==
 
-"@keystone-next/fields-document@^9.0.0":
+"@keystone-next/fields-document@9.0.0":
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/@keystone-next/fields-document/-/fields-document-9.0.0.tgz#ce2cc65606fd309a4c710b31f1784afa70ee13fa"
   integrity sha512-viLRbcOBZIFZLAuKFhhFU3WidJSRGrdChkuoGKGu+2EbBoO9rviu2EtEnmOhMqvu1KWnkPigrTXKSFkrIIWEUg==
@@ -578,12 +578,12 @@
     slate-history "^0.60.4"
     slate-react "^0.60.4"
 
-"@keystone-next/fields@^15.0.0":
+"@keystone-next/fields@15.0.0":
   version "15.0.0"
   resolved "https://registry.yarnpkg.com/@keystone-next/fields/-/fields-15.0.0.tgz#1a8bb11f62a84400adfa345b6bbe12145f3701c8"
   integrity sha512-FQdvNgFeQGIz6/i7Rkx4gonT2PLvMRC4SWVOLMJ2q1K+W5nNGd2dwhuly4bf2fHZd5JnUKRRtfJR4jLfkMg5qA==
 
-"@keystone-next/keystone@^25.0.0", "@keystone-next/keystone@^25.0.4":
+"@keystone-next/keystone@25.0.4", "@keystone-next/keystone@^25.0.0":
   version "25.0.4"
   resolved "https://registry.yarnpkg.com/@keystone-next/keystone/-/keystone-25.0.4.tgz#cb78def580de682ffb4ad694317d2d11a477c030"
   integrity sha512-FTEmlpCaLMgjCKhKz5KCp1rEJafp6HhlY8mG7azWAwJETdKnEEam9CF2MZCV8iDji6kQq73KWyXUmkELHz9u8g==
@@ -1480,7 +1480,7 @@
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.0.tgz#e486d0d97396d79beedd0a6e33f4534ff6b4973e"
   integrity sha512-f5j5b/Gf71L+dbqxIpQ4Z2WlmI/mPJ0fOkGGmFgtb6sAu97EPczzbS3/tJKxmcYDj55OX6ssqwDAWOHIYDRDGA==
 
-"@types/nprogress@^0.2.0":
+"@types/nprogress@0.2.0":
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/@types/nprogress/-/nprogress-0.2.0.tgz#86c593682d4199212a0509cc3c4d562bbbd6e45f"
   integrity sha512-1cYJrqq9GezNFPsWTZpFut/d4CjpZqA0vhqDUPFWYKF1oIyBz5qnoYMzR+0C/T96t3ebLAC1SSnwrVOm5/j74A==
@@ -4480,7 +4480,7 @@ new-github-issue-url@0.2.1:
   resolved "https://registry.yarnpkg.com/new-github-issue-url/-/new-github-issue-url-0.2.1.tgz#e17be1f665a92de465926603e44b9f8685630c1d"
   integrity sha512-md4cGoxuT4T4d/HDOXbrUHkTKrp/vp+m3aOA7XXVYwNsUNMK49g3SQicTSeV5GIz/5QVGAeYRAOlyp9OvlgsYA==
 
-next@^11.1.0, next@^11.1.2:
+next@11.1.2, next@^11.1.0:
   version "11.1.2"
   resolved "https://registry.yarnpkg.com/next/-/next-11.1.2.tgz#527475787a9a362f1bc916962b0c0655cc05bc91"
   integrity sha512-azEYL0L+wFjv8lstLru3bgvrzPvK0P7/bz6B/4EJ9sYkXeW8r5Bjh78D/Ol7VOg0EIPz0CXoe72hzAlSAXo9hw==
@@ -4624,7 +4624,7 @@ npm-run-path@^4.0.1:
   dependencies:
     path-key "^3.0.0"
 
-nprogress@^0.2.0:
+nprogress@0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/nprogress/-/nprogress-0.2.0.tgz#cb8f34c53213d895723fcbab907e9422adbcafb1"
   integrity sha1-y480xTIT2JVyP8urkH6UIq28r7E=
@@ -5145,7 +5145,7 @@ raw-body@2.4.1:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
-react-bootstrap@^1.6.4:
+react-bootstrap@1.6.4:
   version "1.6.4"
   resolved "https://registry.yarnpkg.com/react-bootstrap/-/react-bootstrap-1.6.4.tgz#94d5d2422e26bba277656d3529128e14f838b7ca"
   integrity sha512-z3BhBD4bEZuLP8VrYqAD7OT7axdcSkkyvWBWnS2U/4MhyabUihrUyucPWkan7aMI1XIHbmH4LCpEtzWGfx/yfA==
@@ -5244,7 +5244,7 @@ react-overlays@^5.1.1:
     uncontrollable "^7.2.1"
     warning "^4.0.3"
 
-react-player@^2.9.0:
+react-player@2.9.0:
   version "2.9.0"
   resolved "https://registry.yarnpkg.com/react-player/-/react-player-2.9.0.tgz#ef7fe7073434087565f00ff219824e1e02c4b046"
   integrity sha512-jNUkTfMmUhwPPAktAdIqiBcVUKsFKrVGH6Ocutj6535CNfM91yrvWxHg6fvIX8Y/fjYUPoejddwh7qboNV9vGA==
