@@ -545,10 +545,10 @@
   resolved "https://registry.yarnpkg.com/@josephg/resolvable/-/resolvable-1.0.1.tgz#69bc4db754d79e1a2f17a650d3466e038d94a5eb"
   integrity sha512-CtzORUwWTTOTqfVtHaKRJ0I1kNQd1bpn3sUh8I3nJDVY+5/M/Oe1DnEWzPQvqq/xPIIkzzzIP7mfCoAjFRvDhg==
 
-"@keystone-next/document-renderer@4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@keystone-next/document-renderer/-/document-renderer-4.0.0.tgz#f34b18643743c23256535f57949ec843ef9d5dc9"
-  integrity sha512-0KrkpGE2XwhrL8iugW4tXL6/WjEmtBtIgm7NN7VUvSdIZN/AMuy57AeOdBMeiux1Z7RalNeF+JyaW5KoHukADQ==
+"@keystone-next/document-renderer@4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@keystone-next/document-renderer/-/document-renderer-4.0.1.tgz#d1ab67489028afe642b207d3b91213916693b19a"
+  integrity sha512-Q8gkAVJnvLlDeGZ7G5gKeaU86ns/csLt+Sa/AieWIRY4MBU7vrkh2Sfv320i7V/lI0yJr48KJrGLipmN/Ea0wQ==
 
 "@keystone-next/fields-document@9.0.0":
   version "9.0.0"
